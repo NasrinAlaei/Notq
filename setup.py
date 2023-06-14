@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 setup(
     name='notq',
-    version='1.0.0',
+    version='2.0.0',
     description='Notq is a Python base tool collected and developed for speech and language processing in Persian',
     long_description=readme,
     author='Nbic',
