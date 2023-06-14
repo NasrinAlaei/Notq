@@ -11,7 +11,7 @@ setup(
     author='Nbic',
     long_description_content_type="text/markdown",
     packages=find_packages(include=["notq*"]),
-    url="https://github.com/shaqayeql/Notq",
+    url="https://github.com/NasrinAlaei/Notq",
     install_requires=['torchaudio ==0.11.0',
                         'pydub ==0.25.1',
                         'speechRecognition ==3.8.1',
