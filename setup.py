@@ -18,7 +18,7 @@ setup(
                         'numpy ==1.22.4',
                         'tqdm ==4.61.2',
                         'transformers ==4.30.1',
-                        'torch ==1.11.0',
+                        'torch ==2.0.1',
                         'wget ==3.2',
                         'persian_fluency_detector',
                         'persian_syllable_counter'],
